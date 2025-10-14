@@ -13,3 +13,5 @@ Read more about FAssets https://dev.flare.network/fassets/overview
 - Run `settings.ts` to get the FAssets system parameter values.
 - Run `swapAndRedeem.ts` to swap wrapped native token and redeem using the FAssets system using Uniswap V2 router.
 - Run `xrplPayment.ts` to manage XRPL payment operations and handle reference data.
+
+<!-- Auto-update: 2025-10-14T17:08:21.603659 -->
